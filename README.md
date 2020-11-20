@@ -1,0 +1,2 @@
+# FSELEN
+Workshop practices
